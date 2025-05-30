@@ -16,4 +16,7 @@ utilizada (Github o Gitlab).
 5. Enumerar y describir las principales diferencias entre Gitlab y Github (no más de 1 carilla).
 
 ## Repositorio GitHub
-`https://github.com/gnzlvrz/ipap-git-act-intermedia.git`# ipap-git-act-intermedia
+Inicialmente el proyecto lo realice sobre gitlab, pero no pude cambiar el proyecto a publico.  
+En el proyecto de gitlab estan todos los commit a medida que fui modificando dichos archivos.  
+Al migrarlo perdi los commit, pero estan las capturas de pantalla con los resultados.  
+Link: `https://github.com/gnzlvrz/ipap-git-act-intermedia.git`  
